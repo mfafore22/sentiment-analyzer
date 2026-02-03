@@ -148,7 +148,7 @@ MIT
 
 ## Author
 
-Your Name
+Michael Fafore
 
 ## Acknowledgments
 
